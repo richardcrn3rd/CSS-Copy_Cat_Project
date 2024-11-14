@@ -1,0 +1,115 @@
+.decoration {
+    list-style: none;
+ }
+ 
+ .logo {
+     width: 130px;
+   list-style: none;
+}
+
+.logo {
+    width: 10%;
+    size-adjust: 40%;
+}
+
+.main-img {
+    width: 100%;
+    
+}
+ footer {
+    text-align: center;
+ }
+
+
+ main {
+    background-image: url(/assests/Sallie\ mae\ \ bg\ main.jpg);
+    width: 98%;
+    height: 580px;
+ }
+
+ .nav-item:hover {
+    text-decoration-line: underline;
+}
+
+.loan:hover {
+    background-color: #0092d1;
+}
+
+.loan {
+    font-weight: 600;
+    color: white;
+    border: none;
+    border-radius: 3em;
+    padding: 0.5em;
+    background-color: #134f82;
+}
+
+  footer {
+     text-align: center;
+  }
+ 
+ h5 {
+     display: inline-block;
+     margin: 1em;
+ }
+ 
+ h1 {
+     font-size: 4.6rem;
+     padding: 0.5em 1em 0.3em 1em;
+
+ }
+ 
+ h2 {
+     font-size: 2.6rem;
+     font-weight: 100;
+     padding: 0em 1em 0.3em 1em;
+ }
+
+ color {
+    color: #8adcff;
+ }
+ 
+ h4 {
+     font-size: 1rem;
+     font-weight: 100;
+ }
+ 
+ .rates {
+    padding: 0em 1em 0.3em 1em;
+ }
+
+ .line {
+     border-left: 1px solid black;
+     height: 45px;
+ }
+ 
+ .apply {
+     border-radius: 3em;
+     border: 1px solid black;
+     background-color: #ffe37d;
+     padding: 1em;
+     
+ }
+ 
+ .apply:hover {
+     background-color: #f3c94a;
+ }
+ 
+ .pay {
+     padding-top: 1em;
+     color: #134f82;
+     font-weight: 600;
+     font-size: 50px;
+ 
+ }
+ 
+ .for {
+     color: #0092d1;
+     font-weight: 600;
+     font-size: 50px;
+ 
+ }
+ 
+ .end-message {
+     font-weight: 350;
+ }
