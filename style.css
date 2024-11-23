@@ -114,4 +114,14 @@
  
  .end-message {
      font-weight: 350;
+     color: black;
+ 
  }
+
+ main {
+    background-image: url("./assets/Sallie-mae-bg-main.jpg");
+    background-size: cover; /* Ensures the image covers the entire element */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents repeating the image */
+    height: 60vh; /* Adjust the height as needed */
+}
